@@ -1,0 +1,53 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 *.java.hsp\
+*.sonarj\
+*.sw*\
+.DS_Store\
+.settings\
+.springBeans\
+bin\
+build.sh\
+integration-repo\
+ivy-cache\
+jxl.log\
+jmx.log\
+derby.log\
+spring-test/test-output/\
+.gradle\
+argfile*\
+pom.xml\
+activemq-data/\
+\
+classes/\
+/build\
+buildSrc/build\
+/spring-*/build\
+/src/asciidoc/build\
+target/\
+\
+# Eclipse artifacts, including WTP generated manifests\
+.classpath\
+.project\
+spring-*/src/main/java/META-INF/MANIFEST.MF\
+\
+# IDEA artifacts and output dirs\
+*.iml\
+*.ipr\
+*.iws\
+.idea\
+out\
+test-output\
+atlassian-ide-plugin.xml\
+.gradletasknamecache\
+}
+.metadata/*
+Servers/*
+Hello-World-Spring-MVC/.settings/*
